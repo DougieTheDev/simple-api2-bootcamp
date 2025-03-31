@@ -2,6 +2,6 @@
 
 ### Goal: Display data returned from an api
 
-I completed the challenge: 5
-I feel good about my code: 4.3
+I completed the challenge: 5<br>
+I feel good about my code: 4.3<br>
 had to scrap this one 3 times before i found good api key with no cors issue
