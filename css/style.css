@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 0 10px;
+  }
+  
+  .wrapper{
+    width: 370px;
+    padding: 30px;
+    border-radius: 7px;
+    background: #fff;
+  }
+  
+  .wrapper form{
+    margin: 40px 0 20px 0;
+  }
+  
+  
+  form input{
+    height: 50px;
+    font-size: 20px;
+    padding: 0 15px;
+    border: 1px solid #000000;
+  }
+ 
+ 
+  .drop-list .select-box{
+    display: flex;
+    width: 115px;
+    height: 45px;
+    align-items: center;
+    justify-content: center;
+  }
+  .select-box img{
+    max-width: 21px;
+  }
+  .select-box select{
+    font-size: 20px;
+    margin: 0 -5px 0 5px;
+  }
+ .exchange-rate{
+    font-size: 20px;
+    margin: 20px 0 30px;
+  }
