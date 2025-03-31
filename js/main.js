@@ -1,6 +1,6 @@
 const dropList = document.querySelectorAll("form select");
-const fromCurrency = document.querySelector(".from select");
-const toCurrency = document.querySelector(".to select");
+const fromCurrency = document.querySelector(".fromCurrency select");
+const toCurrency = document.querySelector(".toCurrency select");
 const getButton = document.querySelector("form button");
 
 for (let i = 0; i < dropList.length; i++) {
